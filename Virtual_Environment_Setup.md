@@ -230,5 +230,5 @@ I then entered the Raspberry Pi server's IP address, hostname, and password to e
 ## Thank you! I hope you were able to follow along and complete the setup.
 This completes the guide of setting up a virtual environment on a raspberry pi and installing tensorflow 2.5.0, keras 2.4.3, opencv-contrib-python 4.7.0.72, and setting up the client and server VNC connection. 
 
-# Happy Coding :)
+# Happy Coding :) 🙌
 
