@@ -103,7 +103,7 @@ $source env/bin/activate
 
 Below is a demonstration that the virtual environment can be activated through the project directory.
 
-![Alt text](test2.jpg)
+![!\[Alt text\](test2.jpg)](activating_virtual_environment.jpg)
 
 ## 3. Installing Packages in Virtual Environment 
 Next, we must install the packages required for the virtual environment.To install TensorFlow, I used WinSCP software to transfer a file called tensorflow-2.5.0-cp37-none-linux_armv7l.whl from my laptop to the Raspberry Pi project folder. The wheel file contains all the necessary files to install TensorFlow 2.5.0 on an ARM7L embedded system.
@@ -201,8 +201,8 @@ $ python3 // run in the command prompt to open up the Python shell
 Make sure VNC is on your Pi. There should be an icon on the top right with the big "R" symbol or go to the "internet" tab at the top left and click VNC viewer. 
 If VNC viewer is not shown then follow a online guide to install VNC viewer sever on the Pi. It should already be installed on your Pi.
 
-![Alt text](image.png)
-
+![!\[Alt text\](image.png)
+](VNC_1.png)
 Once you know VNC server is installed then follow the following steps:
 
 #### ON THE RASPBERRY PI:
@@ -216,7 +216,7 @@ in the terminal and navigated to "Interface Options" >>> "VNC" >>> "enable".
 Note: To see the Pi Camera remotely I had to go to the server Raspberry Pi VNC and press: 
 #### menu (three lines on the top right) >>> options >>> Troubleshooting >>> Enable direct capture mode.
 
-![Alt text](image-1.png)
+![!\[Alt text\](image-1.png)](VNC_2.png)
 
 #### ON THE COMPUTER:
 
